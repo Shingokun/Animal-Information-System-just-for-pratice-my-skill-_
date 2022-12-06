@@ -1,3 +1,4 @@
+﻿using Internal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,11 +8,11 @@ using System.Text;
 namespace Animal_Informations_System
 
 {
-    public class AIS
+    public class Program
     {
         static void Main(string[] args)
         {
-
+           
         }
     }
     class Core
@@ -23,4 +24,11 @@ namespace Animal_Informations_System
     {
         
     }
+
+    class InforAnimal
+    {
+
+    }
+
+    
 }
