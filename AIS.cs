@@ -11,7 +11,16 @@ namespace Animal_Informations_System
     {
         static void Main(string[] args)
         {
-            
+
         }
+    }
+    class Core
+    {
+        
+    }
+
+    class Animal
+    {
+        
     }
 }
