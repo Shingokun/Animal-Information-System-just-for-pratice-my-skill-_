@@ -1,0 +1,15 @@
+D:\Directory\C#\AIS\bin\Debug\net6.0\AIS.exe
+D:\Directory\C#\AIS\bin\Debug\net6.0\AIS.deps.json
+D:\Directory\C#\AIS\bin\Debug\net6.0\AIS.runtimeconfig.json
+D:\Directory\C#\AIS\bin\Debug\net6.0\AIS.dll
+D:\Directory\C#\AIS\bin\Debug\net6.0\AIS.pdb
+D:\Directory\C#\AIS\obj\Debug\net6.0\AIS.csproj.AssemblyReference.cache
+D:\Directory\C#\AIS\obj\Debug\net6.0\AIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\C#\AIS\obj\Debug\net6.0\AIS.AssemblyInfoInputs.cache
+D:\Directory\C#\AIS\obj\Debug\net6.0\AIS.AssemblyInfo.cs
+D:\Directory\C#\AIS\obj\Debug\net6.0\AIS.csproj.CoreCompileInputs.cache
+D:\Directory\C#\AIS\obj\Debug\net6.0\AIS.dll
+D:\Directory\C#\AIS\obj\Debug\net6.0\refint\AIS.dll
+D:\Directory\C#\AIS\obj\Debug\net6.0\AIS.pdb
+D:\Directory\C#\AIS\obj\Debug\net6.0\AIS.genruntimeconfig.cache
+D:\Directory\C#\AIS\obj\Debug\net6.0\ref\AIS.dll
